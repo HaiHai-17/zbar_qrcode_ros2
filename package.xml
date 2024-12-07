@@ -1,13 +1,11 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>zbar_ros</name>
-  <version>0.4.1</version>
-  <description>Lightweight ROS wrapper for Zbar barcode/qrcode reader library (http://zbar.sourceforge
-    .net/)</description>
-  <maintainer email="kenjibrameld@gmail.com">ijnek</maintainer>
-  <license>BSD</license>
-  <author email="paul@bovbel.com">Paul Bovbel</author>
+  <name>zbar_qrcode_ros2</name>
+  <version>0.4.2</version>
+  <description>Lightweight ROS wrapper for Zbar barcode/qrcode reader library</description>
+  <maintainer email="guen17012002@gmail.com">ijnek</maintainer>
+  <license>NHH</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
